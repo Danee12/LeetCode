@@ -19,7 +19,7 @@
 -- LIMIT 1;
 
 
--- -- JOIN 사용
+-- -- JOIN 사용 (1650ms)
 SELECT 
     q1.person_name
 FROM queue q1
